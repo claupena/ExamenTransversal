@@ -16,10 +16,10 @@ Examen Transversal Programación y Redes Virtualizadas – DRY7122
 
 Para poder hacer funcionar el respositorio, se debe hacer lo siguiente:
 
-```## Estar en algun terminal con git instalado``` \n
-```git clone https://github.com/claupena/ExamenTransversal.git``` \n
-```cd ExamenTransversal``` \n
-```python3 examen-transversal.py``` \n
+```## Estar en algun terminal con git instalado``` \
+```git clone https://github.com/claupena/ExamenTransversal.git``` \
+```cd ExamenTransversal``` \
+```python3 examen-transversal.py``` \
 
 
 
