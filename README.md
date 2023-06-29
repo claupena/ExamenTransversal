@@ -11,8 +11,17 @@ Examen Transversal Programación y Redes Virtualizadas – DRY7122
 - [x] El directorio debe tener la configuración necesaria para ser iniciado con Git, utilizar Git commit con información a elección y que el script desarrollado en Python quede alojado en el repositorio creado.
 
 
-## Como funciona el script
 
-en línea de comando hacer lo siguiente 
+## Iniciar el repositorio
 
+Para poder hacer funcionar el respositorio, se debe hacer lo siguiente:
+
+```## Estar en algun terminal con git instalado```
+```git clone https://github.com/claupena/ExamenTransversal.git```
+```cd ExamenTransversal```
 ```python3 examen-transversal.py```
+
+
+
+
+
