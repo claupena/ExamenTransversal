@@ -19,7 +19,11 @@ Para poder hacer funcionar el respositorio, se debe hacer lo siguiente:
 ```## Estar en algun terminal con git instalado``` \
 ```git clone https://github.com/claupena/ExamenTransversal.git``` \
 ```cd ExamenTransversal``` \
-```python3 examen-transversal.py``` \
+```python3 examen-transversal.py```
+
+
+
+
 
 
 
