@@ -9,11 +9,11 @@ key = "V53rpj6hKXMW9jByQyoPkdDcbqH6C9Mc"
 
 while True:
   ##   ##
-  orig = input("Ciudad de Origen: ")  # Santiago
+  orig = input("Ciudad de Origen: ")  # Ciudad de Chile
   
   if orig == "Salir" or orig == "s":
     break
-  dest = input("Ciudad de Destino: ")  # Ovalle
+  dest = input("Ciudad de Destino: ")  # Ciudad de algún país de Latino America
   if dest == "Salir" or dest == "s":
     break
   ##   ##
