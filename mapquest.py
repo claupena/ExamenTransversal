@@ -9,9 +9,9 @@ key = "V53rpj6hKXMW9jByQyoPkdDcbqH6C9Mc"
 
 while True:
   ##   ##
+  print("Para salir del codigo apretar 's' o escribir 'Salir'")
   orig = input("Ciudad de Origen: ")  # Ciudad de Chile
-  
-  if orig == "Salir" or orig == "s":
+  if orig == "Salir" or orig == "s": 
     break
   dest = input("Ciudad de Destino: ")  # Ciudad de algún país de Latino America
   if dest == "Salir" or dest == "s":
